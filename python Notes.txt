@@ -1,0 +1,28 @@
+
+
+What is Python?
+Python is a high level general purpose programming Language
+-high level
+
+low level language-HW level-embedded C,assembly
+mid level programming-C programming,CPP etc
+high level - python,js
+
+Python’s syntax as as simple as like english
+
+General Purpose:
+1.app development-desktop,mobile app,web apps
+2.game development - pandas3D
+3.automation testing
+4.Ethical hacking
+5.Data Science & Analytics
+—————————————————
+Python - python.org
+IDLE(interactive Development Learning Environment)
+
+Variables & Constant
+x = 5
+
+Python has its own set of libraries & modules
+
+
